@@ -16,4 +16,4 @@ requires OpenGL 4.6
 requires Flamingo
 makes MrIbby disappear
 removes all compatability
-reverts game to beta 1.7
+reverts the game to beta 1.7
