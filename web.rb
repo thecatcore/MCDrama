@@ -60,10 +60,10 @@ __END__
 <meta property="og:title" content="MC Drama Generator">
 <meta property="og:type" content="website">
 <% if permalink %>
-<meta property="og:url" content="https://fabric-drama-test.herokuapp.com/<%= version %>/<%= seed %>">
+<meta property="og:url" content="https://fabric-drama.herokuapp.com/<%= version %>/<%= seed %>">
 <meta property="og:description" content="<%= drama %>">
 <% else %>
-<meta property="og:url" content="https://fabric-drama-test.herokuapp.com/">
+<meta property="og:url" content="https://fabric-drama.herokuapp.com/">
 <% end %>
 </head>
 <body>
@@ -101,10 +101,10 @@ a:hover {
 }
 </style>
 <div class='drama'><%= drama %></div>
-<a href="https://github.com/Gaelan/MCDrama">A fork of Gaelan's MCDrama generator.</a> <br>
+<p>A fork of <a href="https://github.com/Gaelan/MCDrama">Gaelan's MCDrama generator.</a></p>
 <a href='/'>Get more Fabric drama!</a> <br>
 <a href='/<%= version %>/<%= seed %>'>Permalink</a> <br><br>
-<a href='https://github.com/Zundrel/MCDrama'>GitHub</a> |
+<a href='https://github.com/fabric-community/MCDrama'>GitHub</a> |
 <a href='https://twitter.com/MCDramaLlama'>Twitter</a> |
 <a href='https://reddit.com/r/mcdramagen'>Subreddit</a>
 </body>
