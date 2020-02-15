@@ -42,3 +42,5 @@ obfuscated source
 proguard
 proguARRd
 bad commit messages
+bad world gen
+string concatentation abuse
