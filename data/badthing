@@ -13,6 +13,7 @@ freezes
 ArrayIndexOutOfBoundsException
 invasive coremods
 item duplication
+lambda spam
 log spam
 malicious code
 malware
