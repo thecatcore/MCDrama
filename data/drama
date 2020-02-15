@@ -1,15 +1,21 @@
 %boringopinions
 %drama. in an unrelated incident, %drama
+%drama. in a related accident, %drama. %person is fully to blame for this.
 %mod %badverbpresent under %platform
 %mod dropped support for %mod
+%person dropped support for %mod due to %badthing and the author being %badadjective
 %mod is removed from %platform because it contains %badthing
 %mod now depends on %mod
+%mod now depends on %modnameone %modnametwo
 %person accidentally mentions @everyone on %discord
+%person accidentally mentions @%person on %discord, causing mass panic and hysteria
 %person breaks EULA, causing %person to leave %community
+modmuss50 threatens to remove %emote, causing %person to leave %community
 %person creates a fork of %mod
 %person creates a fork of %mod with %feature
 %person creates a fork of %mod, citing its %badthing
 %person creates a fork of %mod, claiming that it is %badadjective
+%person creates a fork of %mod, claiming that it is %badadjective, and that %modnameone %modnametwo is better
 %person decides to %action
 %person forks %mod because $mod:author decided to %action
 %person is banned from %community
@@ -17,24 +23,30 @@
 %person is pinged one too many times on %discord
 %person mistakenly believes %mod was made by %person
 %person refuses to play %mod unless it has %feature
+%person refuses to play Tech Reborn by modmuss50 unless the %emote emote is returned
 %person refuses to support %mod
 %person refuses to support %mod because of %badthing
 %person releases their new mod, %modnameone %modnametwo
 %person releases their new mod, Tesser%modnametwo
 %person says %badthing $badthing:is not a problem
 %person says %mod belongs in %pack
+%person says %mod doesn't belong in %pack because it causes %badthing
 %person says %mod causes %badthing
 %person says %mod causes %badthing because of %badthing
 %person says %mod is %badadjective
 %person says %mod is %badadjective because of %badthing
 %person says %mod is better than $mod:alternative
+%person says %mod is better than $mod:alternative because of %badthing
 %person says %platform %badverbpresent
 %person says their drama generator is better than %person's
 %person ships %person with %person
 %person suggests %mod should be rewritten in %language
+%person suggests %modnameone %modnametwo by %person should be rewritten in %language
 %person wishes %modnameone %modnametwo would be released already
 %person disappears, never to be heard from again
+%person disappears, never to be heard from again. they didn't feel very good, Mr. Stark
 $mod:author adds %feature to %mod
+$mod:author adds %feature to %mod due to %badthing in $mod:alternative
 $mod:author adds %mod to %platform
 $mod:author adds config option to %mod for %feature
 $mod:author insists the %badthing caused by %mod is actually %mod's fault
@@ -53,11 +65,17 @@ $mod:author renames %mod to %modnameone %modnametwo
 $mod:author renames %mod to Tesser%modnametwo
 $mod:author says the %badthing in %mod $badthing:is actually a feature
 $mod:author says the purpose of %mod is %modaction, just like in %modnameone %modnametwo
+$mod:author says the purpose of %mod is %modaction, just like in %modnameone %modnametwo %modnametwo %modnametwo %modnametwo %modnametwo
 $mod:author says the purpose of %mod is %modaction, just like in Tesser%modnametwo
 $mod:author relicenses %mod under %license
+$mod:author relicenses %mod under %license due to %badthing that %person caused
 $mod:author ported %mod to Forge
+$mod:author ported %mod to Fabric
+$mod:author ported %mod to Rift
+$mod:author ported %mod to JAR mod
 $pack:author adds %pack to %platform
 $pack:author refuses to put any mod in %pack without %feature
+$pack:author refuses to put any mod in %pack without it being approved by %person
 $pack:author removes %mod from %pack
 $pack:author replaces %mod with $mod:alternative in %pack because it %badverbpresent
 $pack:author replaces %mod with $mod:alternative in %pack because it is too %badadjective
@@ -72,3 +90,9 @@ in response to %person's decision to %action, %person decides to %action
 breaking news: %person declared mentally insane after producing a mod named %modnameone %modnameone %modnameone %modnametwo %modnametwo %modnametwo
 breaking news: %person declared mentally insane after producing a mod named %modnameone Tesser%modnametwo %modnametwo %modnametwo
 the fabric community is in an uproar due to the removal of the beloved emote %emote. the community says they can not believe that they removed the emote just because of %badthing
+%person is upset and crying because of %badthing. %person should not have hurt them. they should apologize
+%person whispers quietly into the ear of %person: "%mod is a balanced mod. change my mind."
+%person whispers quietly into the ear of %person: "%modnameone %modnametwo is a balanced mod. change my mind."
+%person yells loudly at %person: "%mod is a balanced mod. change my mind."
+%person yells loudly at %person: "%modnameone %modnametwo is a balanced mod. change my mind."
+%person lil tater says hello to %person, but it leads to %person getting extremely upset because lil tater does not talk to them instead.
