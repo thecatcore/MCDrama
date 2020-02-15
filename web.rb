@@ -60,10 +60,10 @@ __END__
 <meta property="og:title" content="MC Drama Generator">
 <meta property="og:type" content="website">
 <% if permalink %>
-<meta property="og:url" content="http://ftb-drama.herokuapp.com/<%= version %>/<%= seed %>">
+<meta property="og:url" content="https://fabric-drama.herokuapp.com/<%= version %>/<%= seed %>">
 <meta property="og:description" content="<%= drama %>">
 <% else %>
-<meta property="og:url" content="http://ftb-drama.herokuapp.com/">
+<meta property="og:url" content="https://fabric-drama.herokuapp.com/">
 <% end %>
 </head>
 <body>
