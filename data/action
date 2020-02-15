@@ -15,3 +15,9 @@ sell their mod to %platform for exclusive use
 threaten to embrace %badthing
 threaten to add %badthing to all their mods if %feature is added to %mod
 relicense their mods under %license
+rewrite %mod to depend on %mod
+remove tiny potato from %mod
+write all of their mods in %language
+move all their mods to %hostingsite
+threaten to embrace %hostingsite
+threaten to move their mods to %hostingsite if %feature isn't added to %mod

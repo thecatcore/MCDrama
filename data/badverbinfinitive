@@ -1,5 +1,6 @@
 break %feature
 break %mod
+break Tiny Potato
 cause %badthing
 cause explosions
 corrupt chunks
@@ -12,3 +13,5 @@ steal logins
 collect data
 require signing a EULA
 require OpenGL 4.6
+require Flamingo
+make MrIbby disappear

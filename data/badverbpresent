@@ -1,5 +1,6 @@
 breaks %feature
 breaks %mod
+breaks Tiny Potato
 causes %badthing
 causes explosions
 corrupts chunks
