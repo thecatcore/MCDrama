@@ -3,6 +3,7 @@ add %feature to their mod
 add a config option to their mod for %feature
 change their Twitter profile image to %image
 create a fork of %mod
+create a fork of %modnameone %modnametwo
 disappear off the internet, never to be seen again
 port their mod to %runtime
 release their new mod, %modname
@@ -16,9 +17,12 @@ threaten to embrace %badthing
 threaten to add %badthing to all their mods if %feature is added to %mod
 relicense their mods under %license
 rewrite %mod to depend on %mod
+rewrite %mod to depend on %modnameone %modnametwo
 remove tiny potato from %mod
 write all of their mods in %language
 move all their mods to %hostingsite
 threaten to embrace %hostingsite
 threaten to move their mods to %hostingsite if %feature isn't added to %mod
+threaten to move their mods to %hostingsite if %feature isn't added to %modnameone %modnametwo
 JiJ %mod in their mod
+create a mod named %modnameone %modnametwo
