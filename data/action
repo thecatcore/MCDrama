@@ -29,7 +29,7 @@ threaten to move their mods to %hostingsite if %feature isn't added to %modnameo
 JiJ %mod in their mod
 create a mod named %modnameone %modnametwo
 use an MCP name in their mod
-use %alternatemapping for their new mod, %modnameone $modnametwo
+use %alternatemapping for their new mod, %modnameone %modnametwo
 release a new library, Fabric Language %nonjvmlang
 create a new %license set of minecraft mappings
 create a new %license set of minecraft mappings, which controversially puts half the game in the %package package
