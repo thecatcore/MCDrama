@@ -15,3 +15,5 @@ require signing a EULA
 require OpenGL 4.6
 require Flamingo
 make MrIbby disappear
+remove all compatability
+revert game to beta 1.7
