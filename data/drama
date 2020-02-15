@@ -1,6 +1,6 @@
 %boringopinions
 %drama. in an unrelated incident, %drama
-%drama. in a related accident, %drama. %person is fully to blame for this.
+%drama. in a related accident, %drama. %person is fully to blame for this
 %mod %badverbpresent under %platform
 %mod dropped support for %mod
 %person dropped support for %mod due to %badthing and the author being %badadjective
@@ -91,8 +91,6 @@ breaking news: %person declared mentally insane after producing a mod named %mod
 breaking news: %person declared mentally insane after producing a mod named %modnameone Tesser%modnametwo %modnametwo %modnametwo
 the fabric community is in an uproar due to the removal of the beloved emote %emote. the community says they can not believe that they removed the emote just because of %badthing
 %person is upset and crying because of %badthing. %person should not have hurt them. they should apologize
-%person whispers quietly into the ear of %person: "%mod is a balanced mod. change my mind."
-%person whispers quietly into the ear of %person: "%modnameone %modnametwo is a balanced mod. change my mind."
-%person yells loudly at %person: "%mod is a balanced mod. change my mind."
-%person yells loudly at %person: "%modnameone %modnametwo is a balanced mod. change my mind."
+%person whispers quietly into the ear of %person: "%spokenwords"
+%person yells loudly at %person: "%spokenwords"
 lil tater says hello to %person, but it leads to %person getting extremely upset because lil tater does not talk to them instead
