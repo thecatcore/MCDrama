@@ -101,9 +101,10 @@ a:hover {
 }
 </style>
 <div class='drama'><%= drama %></div>
-<a href='/'>Get more drama!</a> <br>
+<p>A fork of <a href="https://github.com/Gaelan/MCDrama">Gaelan's MCDrama generator.</a></p>
+<a href='/'>Get more Fabric drama!</a> <br>
 <a href='/<%= version %>/<%= seed %>'>Permalink</a> <br><br>
-<a href='https://github.com/Gaelan/MCDrama'>GitHub</a> |
+<a href='https://github.com/fabric-community/MCDrama'>GitHub</a> |
 <a href='https://twitter.com/MCDramaLlama'>Twitter</a> |
 <a href='https://reddit.com/r/mcdramagen'>Subreddit</a>
 </body>
