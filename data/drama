@@ -19,7 +19,7 @@
 %person refuses to play %mod unless it has %feature
 %person refuses to support %mod
 %person refuses to support %mod because of %badthing
-%person releases their new mod, %modname
+%person releases their new mod, %modnameone %modnametwo
 %person says %badthing $badthing:is not a problem
 %person says %mod belongs in %pack
 %person says %mod causes %badthing
@@ -31,7 +31,7 @@
 %person says their drama generator is better than %person's
 %person ships %person with %person
 %person suggests %mod should be rewritten in %language
-%person wishes %modname would be released already
+%person wishes %modnameone %modnametwo would be released already
 %person disappears, never to be heard from again
 $mod:author adds %feature to %mod
 $mod:author adds %mod to %platform
@@ -48,9 +48,9 @@ $mod:author removes %feature from %mod because of an interaction with %mod
 $mod:author rejects %person's pull request to %mod, which %prdeny
 $mod:author removes %feature from %mod
 $mod:author removes config from %mod for %feature
-$mod:author renames %mod to %modname
+$mod:author renames %mod to %modnameone %modnametwo
 $mod:author says the %badthing in %mod $badthing:is actually a feature
-$mod:author says the purpose of %mod is %modaction, just like in %modname
+$mod:author says the purpose of %mod is %modaction, just like in %modnameone %modnametwo
 $mod:author relicenses %mod under %license
 $mod:author ported %mod to Forge
 $pack:author adds %pack to %platform
@@ -58,8 +58,8 @@ $pack:author refuses to put any mod in %pack without %feature
 $pack:author removes %mod from %pack
 $pack:author replaces %mod with $mod:alternative in %pack because it %badverbpresent
 $pack:author replaces %mod with $mod:alternative in %pack because it is too %badadjective
-$pack:author demands %person write %modname
-$pack:author thinks $mod:author should rename %mod to %modname
+$pack:author demands %person write %modnameone %modnametwo
+$pack:author thinks $mod:author should rename %mod to %modnameone %modnametwo
 $server:author bans %person from %server
 an interaction between %mod and %mod causes %badthing
 if they reach their Patreon goal, %person will %action
