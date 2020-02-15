@@ -28,7 +28,7 @@ modmuss50 threatens to remove %emote, causing %person to leave %community
 %person refuses to support %mod because of %badthing
 %person releases their new mod, %modnameone %modnametwo
 %person releases their new mod, Tesser%modnametwo
-%person says %badthing $badthing:is not a problem
+%person says %badthing %badthing:is not a problem
 %person says %mod belongs in %pack
 %person says %mod doesn't belong in %pack because it causes %badthing
 %person says %mod causes %badthing
@@ -95,7 +95,7 @@ the fabric community is in an uproar due to the removal of the beloved emote %em
 %person yells loudly at %person: "%spokenwords"
 lil tater says hello to %person, but it leads to %person getting extremely upset because lil tater does not talk to them instead
 %person uses %alternatemapping for their new mod, %modnameone %modnametwo
-$person releases their new library, Fabric Language %nonjvmlang
+%person releases their new library, Fabric Language %nonjvmlang
 %person creates a new %license set of minecraft mappings
 %person creates a new %license set of minecraft mappings, which controversially puts half the game in the %package package
 %person wants to %action
