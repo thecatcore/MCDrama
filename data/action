@@ -6,7 +6,8 @@ create a fork of %mod
 create a fork of %modnameone %modnametwo
 disappear off the internet, never to be seen again
 port their mod to %runtime
-release their new mod, %modname
+release their new mod, %mod
+release their new mod, %modnameone %modnametwo
 remove %feature from their mod
 rewrite their mod in %language
 actually contribute to the community for once
