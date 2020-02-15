@@ -9,3 +9,4 @@
 . %relevantperson rehosts $mod:mentioned on %hostingsite.
 . %reactor creates a fork of $mod:mentioned and swaps it to MCP mappings.
 . %reactor creates a fork of $mod:mentioned and swaps it to %alternatemapping.
+. %reactor deletes all of their CurseForge projects
