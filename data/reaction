@@ -6,3 +6,5 @@
 . %relevantperson gets banned from %community.
 . %relevantperson gets unbanned from %community.
 . %relevantperson loses a lot of %internetpoints
+. %relevantperson rehosts $mod:mentioned on %hostingsite.
+. %reactor creates a fork of $mod:mentioned and swaps it to MCP mappings.
