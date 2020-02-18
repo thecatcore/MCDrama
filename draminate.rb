@@ -11,9 +11,9 @@ end
 
 def read_array(name, version)
   $parsed["#{version}:#{name}"] ||= if version == current_version
-                                      $fetcher.open("data/#{name}").read.split("\n")
+                                      $fetcher.open("data/#{name}").read.split(/\r?\n/)
                                     else
-                                      open("https://raw.githubusercontent.com/fabric-community/MCDrama/#{version}/data/#{name}").read.split("\n")
+                                      open("https://raw.githubusercontent.com/fabric-community/MCDrama/#{version}/data/#{name}").read.split(/\r?\n/)
                                     end
 end
 

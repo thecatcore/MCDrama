@@ -87,6 +87,7 @@ an interaction between %mod and %mod causes %badthing
 if they reach their Patreon goal, %person will %action
 in a move to get %internetpoints, %person decides to %action
 in response to %person's decision to %action, %person decides to %action
+in response to %person's decision to %action, %person decides to name every commit "e"
 breaking news: %person declared mentally insane after producing a mod named %modnameone %modnameone %modnameone %modnametwo %modnametwo %modnametwo
 breaking news: %person declared mentally insane after producing a mod named %modnameone Tesser%modnametwo %modnametwo %modnametwo
 the fabric community is in an uproar due to the removal of the beloved emote %emote. the community says they can not believe that they removed the emote just because of %badthing
@@ -97,13 +98,14 @@ lil tater says hello to %person, but it leads to %person getting extremely upset
 %person uses %alternatemapping for their new mod, %modnameone %modnametwo
 %person releases their new library, Fabric Language %nonjvmlang
 %person creates a new %license set of minecraft mappings
+%person creates a new %license set of minecraft mappings, which controversially names every method and class "e"
 %person creates a new %license set of minecraft mappings, which controversially puts half the game in the %package package
 %person wants to %action
 %person, %person, and %person walk into a bar... inside they created the ultimate mod, the perfect mod: %modnameone %modnametwo %modnametwo %modnametwo
 %person and %person collaborate to %action
 %person wants to %action after seeing %drama
 Ironically, %person chooses to %action at the same time as %person
-%person lashes out at all modders who use %mappings
+%person lashes out at all modders who use %alternatemapping
 %person spams crusty foss reactions on modders who license under %license
 %person states that the best config format is %doctype. %person disagrees
 %person merges a previously closed pr which they claimed, although contains %badthing, also has %goodthing
@@ -111,3 +113,8 @@ Ironically, %person chooses to %action at the same time as %person
 $mod:author threatens to turn %mod into a %license standalone %nonjvmlang game
 %person threatens to %action
 %person claims that %alternatemapping is better than yarn
+%person changes the mojang logo in the title screen in %mod
+%person claims that adding a button in the title screen will benefit users
+%person leaves %community because of %badthing
+%person leaves %community because %badopinions
+%person leaves %community after %person tries to %action
