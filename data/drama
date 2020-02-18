@@ -109,7 +109,7 @@ Ironically, %person chooses to %action at the same time as %person
 %person spams crusty foss reactions on modders who license under %license
 %person states that the best config format is %doctype. %person disagrees
 %person merges a previously closed pr which they claimed, although contains %badthing, also has %goodthing
-%person loses to %personmojang in a game of chess, to no one's surprise
+%person loses to %person in a game of %game, to no one's surprise
 $mod:author threatens to turn %mod into a %license standalone %nonjvmlang game
 %person threatens to %action
 %person claims that %alternatemapping is better than yarn
@@ -118,3 +118,4 @@ $mod:author threatens to turn %mod into a %license standalone %nonjvmlang game
 %person leaves %community because of %badthing
 %person leaves %community because %badopinions
 %person leaves %community after %person tries to %action
+%person refuses to play %game with %person
