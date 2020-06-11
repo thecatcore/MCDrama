@@ -1,6 +1,7 @@
 cfg
 json
 json5
+jsonnet
 xml
 java
 txt
@@ -12,3 +13,4 @@ hocon
 ini
 zfg
 ixl
+yaml
