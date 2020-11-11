@@ -19,7 +19,8 @@ Obsidian %modthing
 %modthing: %modaction Edition
 %modaction 2: Electric %modthing%aloo
 %modthing %modthing %modthing
-Double %modthing Triple %modthing
+Double %modthing
+Triple %modthing
 %modthing %tupling
 %modthing to %modthing
 %modthing and %modthing
@@ -36,3 +37,5 @@ Automatic %modaction
 No More %modaction
 Fabric %modthing
 %person's %modthing
+Netherite %modthing
+%modthing Fabricated
