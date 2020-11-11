@@ -1,6 +1,7 @@
 cfg
 json
 json5
+jsonnet
 xml
 java
 txt
@@ -11,3 +12,5 @@ toml
 hocon
 ini
 zfg
+ixl
+yaml
