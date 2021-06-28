@@ -149,3 +149,4 @@ After being repeatedly told not to, %person decided to %action
 $mod:author makes the GitHub repo for $mod private.
 $mod:author makes the BitBucket repo for $mod private.
 $mod:author makes the GitLab repo for $mod private.
+$mod:author threatens to remove %person from $mod's commit history
