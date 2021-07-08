@@ -1,0 +1,11 @@
+PissLoader
+%license%Loader
+%doctype%loader
+%modthing%Loader
+%license Mod Loader
+%doctype mod loader
+%modthing Mod Loader
+%modthing%%loader
+Piss%loader
+%loader%++
+%loader%: %modthing Edition
