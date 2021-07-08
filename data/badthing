@@ -45,7 +45,7 @@ proguard
 proguARRd
 bad commit messages
 bad world gen
-string concatentation abuse
+string concatenation abuse
 no updates
 not naming every commit "e"
 CurseForge deleting all their projects
@@ -62,3 +62,8 @@ gh issuespam
 %person (German Branch)
 %community (German Branch)
 landmastered
+use of incompatibly-licensed code from %mod
+use of incompatibly-licensed code
+requiring OptiFine as a dependency
+UUID-banning %person
+intentionally breaking %mod
