@@ -154,9 +154,11 @@ $mod:author threatens to remove %person from $mod's commit history
 %person is kidnapped by LePichu and forced to work at ReMod Studios
 %person tries to shoehorn politics into every little corner of each discussion
 %person tries to shoehorn politics into every little corner of each discussion; %drama
-%person tried to impersonate %relevantperson on %place, and ended up losing a lot of %internetpoints
-%person tried to impersonate %relevantperson on %place; %drama
+%person tried to impersonate %relevantperson on %place%, and ended up losing a lot of %internetpoints
+%person tried to impersonate %relevantperson on %place%; %drama
 it is discovered that %relevantperson had seen %alternatemapping
 $mod:author abandons $mod, claiming there are better mods adding $mod:modfeature
-$mod:author abandons $mod, claiming there are better mods adding $mod:modfeature; %drama
+$mod:author abandons $mod, claiming there are better mods adding $mod:modfeature
 %person imported drama from %community on %discord
+%person forks %loader, naming the fork %newloader
+%person forks %loader due to excessive %badthing, naming the fork %newloader
