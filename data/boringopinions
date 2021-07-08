@@ -28,5 +28,5 @@
 %person says their ModFest mod isn't a copy of %modname
 %person says their ModFest mod isn't a copy of %modnameone %modnametwo
 %person claims $mod doesn't add enough $mod:modfeature
-%person claims their fork of %loader, called %newloader, is better
-%person claims their fork of %loader, called %newloader, is better because of %goodthing
+%person claims their fork of %loader%, called %newloader%, is better
+%person claims their fork of %loader%, called %newloader%, is better because it contains %goodthing

@@ -49,3 +49,5 @@ meta-mutes %person because they %action
 %person makes a false statement of fact
 %person deletes tiny potato
 threaten to remove %person from their mod's commit history
+fork %loader as %newloader
+drop support for %loader in favor of %newloader%, their fork
