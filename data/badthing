@@ -68,3 +68,4 @@ requiring OptiFine as a dependency
 UUID-banning %person
 intentionally breaking %mod
 forking %loader as %newloader
+datagen
