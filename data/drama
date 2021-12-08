@@ -168,3 +168,7 @@ $mod:author rewrites all their mods as Bedrock Addons
 %loader causes Internal Server Errors, making %person create %newloader
 %person rewrites %mod in %language, causing Internal Server Errors
 %person dislikes Internal Server Errors, citing its %badthing
+$mod:author ported %mod to LoaderComplex
+$mod:author ported %mod to KubeJS
+%person opens a pr to $mod claiming to fix a critical bug but that removes every trace of $mod:author
+%person PR support for %loader to %mod, but %drama
