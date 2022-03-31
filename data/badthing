@@ -36,13 +36,11 @@ code stolen from %mod
 code stolen from %person
 no tiny potat representation
 @Overwrite
-MCP names
-Mojmap
+using %alternatemapping
 DataFixerUpper
 Blaze3D
-obfuscated source
-proguard
-proguARRd
+using proguard
+using proguARRd
 bad commit messages
 bad world gen
 string concatenation abuse
@@ -68,5 +66,13 @@ requiring OptiFine as a dependency
 UUID-banning %person
 intentionally breaking %mod
 forking %loader as %newloader
+forking %mappings
 datagen
 Internal Server Errors
+harassing %person to update their mods
+modding %oldversion in current year
+harassing %person to downgrade their mods to %oldversion
+HD Textures
+blaming %person for drama
+remapping their mod to %alternatemapping
+selling NFTs

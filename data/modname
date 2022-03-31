@@ -9,10 +9,11 @@ Extra %modthing%s
 Mine%modthing
 More %modthing
 Open%modthing%s
+Open %modthing%s
 Simple %modthing
 Simple %modthing%s
 The %modthing Mod
-Just Enough %modthing
+%xeiprefix %modthing
 Diamond %modthing
 Emerald %modthing
 Obsidian %modthing
@@ -39,3 +40,6 @@ Fabric %modthing
 %person's %modthing
 Netherite %modthing
 %modthing Fabricated
+%modthing Refabricated
+%modthing Reloaded
+Better %modthing
