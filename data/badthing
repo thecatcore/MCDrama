@@ -66,7 +66,7 @@ requiring OptiFine as a dependency
 UUID-banning %person
 intentionally breaking %mod
 forking %loader as %newloader
-forking %mappings
+forking %alternatemapping
 datagen
 Internal Server Errors
 harassing %person to update their mods
